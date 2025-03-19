@@ -9,3 +9,4 @@ healthRouter.get("/", (req, res) => {
     status: "ok",
   });
 });
+// Put a try catch ! error- fecthing user or w.e
